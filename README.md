@@ -1,4 +1,4 @@
 - 👋 Olá
-- 🌱 I’m currently learning javascript, Sql, Git, github, nodeJs, html, css, SQlite, json, Mysql e respansividade.
+- 🌱 I’m currently learning javascript, Sql, Git, Github, nodeJs, html, Css, SQlite, Json, Mysql e respansividade.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me manzottiflavio22@gmail.com
